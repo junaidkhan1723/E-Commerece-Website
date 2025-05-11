@@ -9,6 +9,7 @@ import Features from "./project/Features";
 import Contact from "./project/Contact";
 import Products from "./project/Products";
 import Carts from "./project/Carts";
+
 function Main() {
   const [data,setData] = useState([]);
   const [cart,setCart] = useState([]);
@@ -28,10 +29,6 @@ setCart([...cart,item])
     setCart(x)
     console.log("working")
   }
-
-
-
-  
   return (
     <>
       <BrowserRouter>
