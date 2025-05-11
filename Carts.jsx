@@ -1,8 +1,7 @@
 import CartItem from './CartItem'
+
 function Carts({cart,deleteCartItem}) {
   
-   
- 
   return (
     <div className='mainCart'>
          <div className='allCarts'>
@@ -21,14 +20,8 @@ function Carts({cart,deleteCartItem}) {
 </>
     : <div className='emptyCart'>Your Cart is Empty 🥹</div>
     }
- 
-
-
-
      </div>
-    </div>
-    
-    
+    </div>    
   )
 }
 
