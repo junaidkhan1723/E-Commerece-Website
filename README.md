@@ -1,6 +1,6 @@
 <h1>🛒 React E-Commerce Website (Work in Progress)</h1>
 
-<h2>Author: junaidkhan1723</h2>
+<h2>Author: <a href="#">junaidkhan1723</a></h2>
 
 <strong>This is a modern e-commerce web application currently under development, built with React. It fetches product data from the DummyJSON API, allowing users to browse products, add them to a shopping cart, and navigate across pages like login, features, and customer support.</strong>
 
