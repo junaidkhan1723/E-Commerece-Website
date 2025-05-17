@@ -7,14 +7,14 @@
 
 ---
 
-🚧 Project Status
+<h3>🚧 Project Status</h3>
 
 This project is actively being developed. Some features and UI elements are incomplete or may change as I continue learning and improving.
 
 
 ---
 
-✨ Features
+<h3>✨ Features</h3>
 
 ✅ Implemented
 
