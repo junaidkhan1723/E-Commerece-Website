@@ -14,9 +14,9 @@
               <h1>Welcome to ShopKar</h1>
               <p>Discover amazing products with great deals and seamless shopping experience.</p>
               <a href="#products" className="main-btn">Shop Now</a>
-          </section>
-      
+          </section>      
     </div>
+      
     <section className="categories">
       <div className="catContent">
         <h2>🔍 Explore by Category 📝</h2>
