@@ -1,4 +1,4 @@
-<h1>🛒 React E-Commerce Website (Work in Progress)</h1>
+<h1>🛒 React E-Commerce Website</h1>
 
 <h2>🙋Author: <a href="#">junaidkhan1723</a></h2>
 
